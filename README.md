@@ -29,7 +29,7 @@ A proposta contempla:
 
 ### Diagrama lógico
 
-![Diagrama lógico](diagramas/diagrama-logico.png)
+![Diagrama lógico](diagramas/diagrama-logico.jpg)
 
 ### Diagrama físico
 
