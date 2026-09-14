@@ -1,1 +1,1 @@
-
+Artigo acadêmico do projeto.
