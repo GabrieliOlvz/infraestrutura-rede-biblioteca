@@ -40,7 +40,7 @@ A proposta contempla:
 O projeto completo foi documentado em formato de artigo utilizando o
 template da Sociedade Brasileira de Computação (SBC).
 
-O PDF final está disponível na pasta `artigo/`.
+📄 [**Acessar o artigo completo em PDF**](artigo/Proposta_de_Infraestrutura_de_Rede_para_uma_Biblioteca.pdf)
 
 ## Autores
 
